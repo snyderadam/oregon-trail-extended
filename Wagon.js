@@ -10,7 +10,7 @@ class Wagon {
         if (this.passengers.length < this.capacity){
             this.passengers.push(traveler)
         } else {
-             "NO ROOM HERE"
+             "NO ROOM HERE."
         }
     }
     shouldQuarantine(){

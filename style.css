@@ -1,0 +1,36 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: auto
+}
+body{
+    background-image: url('https://i.pinimg.com/originals/31/a4/b9/31a4b97c918c1b9a5545fa1bc011cffa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: chocolate;
+    background-blend-mode: soft-light;
+    border-color: darkcyan;
+    border-top-style: double;
+    border-width: 10px;
+}
+
+.divA{
+    
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    font-size: 50px;
+    height: 200px;
+    color: darkslategray;
+    
+}
+.divB{
+    
+    font-family: 'Monoton', cursive;
+    font-size: 35px;
+    text-align: center;
+    width: 195px;
+    height: 100px;
+    color: grey;
+
+}
